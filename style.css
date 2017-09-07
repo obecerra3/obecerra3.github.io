@@ -19,6 +19,7 @@ video{
     margin: 0 auto;
 }
 
-#goodRocket {
+#img{
+    display: block;
     margin: 0 auto;
 }
